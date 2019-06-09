@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.271
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29001.49
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project1", "Project1\Project1.vcxproj", "{019A835C-26FA-4116-9AEA-7CB2EE3BAB71}"
 EndProject
@@ -16,6 +16,8 @@ EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project6", "Project6\Project6.vcxproj", "{DBB8C3E6-0754-476B-AAD9-8EF0FA88B824}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "퇴사", "퇴사\퇴사.vcxproj", "{B2950107-8DA5-4A15-8516-5EF6B353E5E2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "토마토", "토마토\토마토.vcxproj", "{789FA621-A257-455F-A094-9FC322AAF900}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,14 @@ Global
 		{B2950107-8DA5-4A15-8516-5EF6B353E5E2}.Release|x64.Build.0 = Release|x64
 		{B2950107-8DA5-4A15-8516-5EF6B353E5E2}.Release|x86.ActiveCfg = Release|Win32
 		{B2950107-8DA5-4A15-8516-5EF6B353E5E2}.Release|x86.Build.0 = Release|Win32
+		{789FA621-A257-455F-A094-9FC322AAF900}.Debug|x64.ActiveCfg = Debug|x64
+		{789FA621-A257-455F-A094-9FC322AAF900}.Debug|x64.Build.0 = Debug|x64
+		{789FA621-A257-455F-A094-9FC322AAF900}.Debug|x86.ActiveCfg = Debug|Win32
+		{789FA621-A257-455F-A094-9FC322AAF900}.Debug|x86.Build.0 = Debug|Win32
+		{789FA621-A257-455F-A094-9FC322AAF900}.Release|x64.ActiveCfg = Release|x64
+		{789FA621-A257-455F-A094-9FC322AAF900}.Release|x64.Build.0 = Release|x64
+		{789FA621-A257-455F-A094-9FC322AAF900}.Release|x86.ActiveCfg = Release|Win32
+		{789FA621-A257-455F-A094-9FC322AAF900}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
